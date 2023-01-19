@@ -1,0 +1,20 @@
+
+
+#img-1 img{
+    height: 200px;
+   
+    width: 100%;
+
+}
+#img-2 img{
+    position: relative;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    z-index: 1;
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+    margin-top: -80px;
+}
